@@ -19,3 +19,5 @@ classes.png
 convolution_neural_network.code-workspace
 my_tensorflow_env
 venv
+cuda-keyring_1.1-1_all.deb
+nv-tensorrt-local-repo-ubuntu2204-8.6.0-cuda-11.8_1.0-1_amd64.deb
